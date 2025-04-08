@@ -1,7 +1,7 @@
 # Human-Face-Shapes-Classification
-Human Face Shapes Classification Just Using Custom CNN 
+### Human Face Shapes Classification Just Using Custom CNN 
 
-![human face](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/photo_6030725518216774984_y.jpg)
+
 ![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774992_y.jpg)
 ![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774993_y.jpg)
 ![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774994_y.jpg)
