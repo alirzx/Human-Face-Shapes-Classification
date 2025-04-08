@@ -27,9 +27,13 @@ Human faces can be categorized into specific shapes based on their geometric fea
 The objective is to develop a model that can automatically classify a given facial image into one of these five categories.
 
 # Dataset
+
 The dataset utilized for this project comprises images labeled according to the aforementioned face shape categories. Each category contains a balanced number of images to ensure unbiased learning. The images have been preprocessed to standardize dimensions and enhance feature extraction.
+![dataset distribiution](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774989_y.jpg)
+![dataset distribiution](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774991_y.jpg)
 
 # Methodology
+
 ## Data Preprocessing
 ### Image Resizing: All images are resized to 224x224 pixels to maintain uniformity.
 
