@@ -28,7 +28,7 @@ The objective is to develop a model that can automatically classify a given faci
 
 # Dataset
 
-The dataset utilized for this project comprises images labeled according to the aforementioned face shape categories. Each category contains a balanced number of images to ensure unbiased learning. The images have been preprocessed to standardize dimensions and enhance feature extraction.
+The dataset utilized for this project comprises 4979 images labeled according to the aforementioned face shape categories. Each 5 category contains a balanced number of images to ensure unbiased learning. The images have been preprocessed to standardize dimensions and enhance feature extraction.
 ![dataset distribiution](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774989_y.jpg)
 ![dataset distribiution](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774991_y.jpg)
 
