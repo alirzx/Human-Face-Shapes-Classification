@@ -62,7 +62,8 @@ The final layer utilizes a softmax activation function to output probabilities f
 The model's performance is evaluated using accuracy and the F1-score. The confusion matrix indicates the model's proficiency in distinguishing between similar face shapes. Detailed performance metrics and visualizations are provided in the accompanying Jupyter notebooks.
 
 ### test set results :
-[test confusion matrix ](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774999_x.jpg)
+![accuracy-loss](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774998_y.jpg)
+![test confusion matrix ](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774999_x.jpg)
 
 # Conclusion
 This project demonstrates the feasibility of classifying human face shapes using a custom CNN. The approach can be extended to other applications requiring facial feature analysis. Future work may involve integrating more complex architectures or leveraging transfer learning to enhance accuracy further.
