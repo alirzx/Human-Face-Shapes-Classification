@@ -2,6 +2,11 @@
 Human Face Shapes Classification Just Using Custom CNN 
 
 ![human face](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/photo_6030725518216774984_y.jpg)
+![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774992_y.jpg)
+![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774993_y.jpg)
+![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774994_y.jpg)
+![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774995_y.jpg)
+![](https://github.com/alirzx/Human-Face-Shapes-Classification/blob/main/Plots/photo_6030725518216774996_y.jpg)
 
 # Project Overview
 This project focuses on classifying human face shapes into five distinct categories using a custom Convolutional Neural Network (CNN). Accurately determining face shapes has practical applications in areas such as personalized recommendations for hairstyles, eyewear, and cosmetics.
